@@ -9,7 +9,7 @@ const animatednumbers = dynamic(()=>{return import ("react-animated-numbers")}, 
 const Achievement = [
     {
         metric:"Projects",
-        value:"10",
+        value:"100",
     },
     {
         metric:"Users",
